@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MSami625
+- 👋 AsalamuAlaikum Warahmatullah, I’m @MSami625
 - 👀 I’m interested in programming and all stuff regarding technology.
 - 🌱 I’m currently learning programming and science.
 - 💞️ I’m looking to collaborate for creating some good and useful stuff.
