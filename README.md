@@ -4,16 +4,17 @@
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=MSami625&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MSami625&style=flat-square&color=blue" alt="m-sami"/>
 
 ## 👋 *AsalamuAlaikum Warahmatullah*, I’m **MUHAMMAD SAMI BHAT**.
 - 👀 I’m interested in programming and all stuff regarding technology.
 - 🌱 I’m currently learning programming and science.
-> 💞️ I’m looking to collaborate for creating some good and useful stuff.
+- 💞️ I’m looking to collaborate for creating some good and useful stuff.
+ 
 
 [![@msami625's Holopin board](https://holopin.me/msami625)](https://holopin.io/@msami625)
 
-:mailbox:(linkedin.com/in/muhammad-sami-bhat)
+Contact me at:(linkedin.com/in/muhammad-sami-bhat).
 
 <!---
 MSami625/MSami625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
