@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=MSami625&style=flat-square&color=blue" alt="m-sami"/>
 
-## 👋 *AsalamuAlaikum Warahmatullah*, I’m **MUHAMMAD SAMI BHAT**.
+## 👋 *AsalamuAlaikum Warahmatullah*, I’m **Muhammad Sami Bhat**.
 - 👀 I’m interested in programming and all stuff regarding technology.
 - 🌱 I’m currently learning programming and science.
 - 💞️ I’m looking to collaborate for creating some good and useful stuff.
