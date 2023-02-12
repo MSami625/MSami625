@@ -1,6 +1,6 @@
 <div align="center">
 
-![This is an image](https://msami625.github.io/img/prof2.png)
+![Screenshot_20230213_122415](https://user-images.githubusercontent.com/77672838/218331073-969cf003-920e-4230-a98e-47b3e5c18070.png)
 
 </div>
 
@@ -20,4 +20,5 @@ Contact me at:(linkedin.com/in/muhammad-sami-bhat).
 MSami625/MSami625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
