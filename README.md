@@ -1,6 +1,7 @@
 <div align="center">
 
-![prof](https://user-images.githubusercontent.com/77672838/221630086-23fcf662-4a7e-4987-8891-8c114a16df9c.png)
+![prof](https://user-images.githubusercontent.com/77672838/221630820-ef2189be-0ba4-43bb-9410-de0372c37e68.png)
+
 
 </div>
 
