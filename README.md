@@ -1,16 +1,22 @@
 <div align="center">
 
-![bg](https://user-images.githubusercontent.com/77672838/221627528-eb4687e6-daaa-4c60-a1e7-c1301cab782f.png)
-
+![prof](https://user-images.githubusercontent.com/77672838/221630086-23fcf662-4a7e-4987-8891-8c114a16df9c.png)
 
 </div>
 
+
+<br>
 <img src="https://komarev.com/ghpvc/?username=MSami625&style=flat-square&color=blue" alt="m-sami"/>
 
  ### 👋 *AsalamuAlaikum Warahmatullah*, I’m **Muhammad Sami Bhat**.
 - 👀 I’m interested in programming and all stuff regarding technology.
 - 🌱 I’m currently learning programming and science.
 - 💞️ I’m looking to collaborate for creating some good and useful stuff.
+ 
+ <br>
+ <br>
+ <br>
+ <br>
  
 
 [![@msami625's Holopin board](https://holopin.me/msami625)](https://holopin.io/@msami625)
