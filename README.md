@@ -2,15 +2,12 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=35&duration=2000&pause=1000&color=D6FFC8&background=0d1117AA&center=true&vCenter=true&multiline=true&width=701&height=95&lines=%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D9%85%D9%8F+%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85%D9%92+%D9%88%D9%8E%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8F+%D9%B1%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90+%D9%88%D9%8E%D8%A8%D9%8E%D8%B1%D9%8E%D9%83%D8%A7%D8%AA%D9%8F%D9%87%D9%8F;I'm+Muhammad+Sami+Bhat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=35&duration=2000&pause=1000&color=D6FFC8&background=0d1117BB&center=true&vCenter=true&multiline=true&width=701&height=109&lines=%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D9%85%D9%8F+%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85%D9%92+%D9%88%D9%8E%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8F+%D9%B1%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90+%D9%88%D9%8E%D8%A8%D9%8E%D8%B1%D9%8E%D9%83%D8%A7%D8%AA%D9%8F%D9%87%D9%8F;I'm+Muhammad+Sami+Bhat.)](https://git.io/typing-svg)
 
 <hr>
 
-<br clear="both">
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://t.me/beboolean" target="_blank">
@@ -26,7 +23,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h2 align="left">👩‍💻  About Me</h2>
 
@@ -36,7 +33,7 @@
 
 ###
 <hr>
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools :</h3>
 
 ###
 
