@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://t.me/beboolean" target="_blank">
+  <a href="https://t.me/users/beboolean" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="59" height="42" alt="telegram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-sami-bhat" target="_blank">
