@@ -25,11 +25,11 @@
 
 
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👩‍💻 About Me</h2>
 
 ###
 
-<h3 align="left">📚 I'm currently pursuing Btech. (2022-26) in  Computer Science.<br>👨‍💻Passionately growing knowledge in field of Web Development.<br>✌️I believe in  LEARN BY DOING.</h3>
+<h3 align="left">📚 I'm currently pursuing Btech. (2022-26) in  Computer Science.<br>👨‍💻 Passionately growing knowledge in field of Web Development.<br>✌️ I believe in  LEARN BY DOING.</h3>
 
 ###
 <hr>
@@ -71,13 +71,7 @@
 
 ###
 
-<img src="https://komarev.com/ghpvc/?username=MSami625&style=flat-square&color=blue" alt="m-sami"/>
-
- 
-
- 
-
-
+<img src="https://komarev.com/ghpvc/?username=MSami625&style=flat-square&color=grey" alt="m-sami"/>
 
 <!---
 MSami625/MSami625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
