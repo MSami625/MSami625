@@ -2,12 +2,15 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=35&duration=2000&pause=1000&color=D6FFC8&background=0d1117BB&center=true&vCenter=true&multiline=true&width=701&height=109&lines=%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D9%85%D9%8F+%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85%D9%92+%D9%88%D9%8E%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8F+%D9%B1%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90+%D9%88%D9%8E%D8%A8%D9%8E%D8%B1%D9%8E%D9%83%D8%A7%D8%AA%D9%8F%D9%87%D9%8F;I'm+Muhammad+Sami+Bhat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=35&duration=1500&pause=1000&color=D6FFC8&background=0d1117BB&center=true&vCenter=true&multiline=true&width=800&height=109&lines=%D8%A7%D9%84%D8%B3%D9%8E%D9%91%D9%84%D9%8E%D8%A7%D9%85%D9%8F+%D8%B9%D9%8E%D9%84%D9%8E%D9%8A%D9%92%D9%83%D9%8F%D9%85%D9%92+%D9%88%D9%8E%D8%B1%D9%8E%D8%AD%D9%92%D9%85%D9%8E%D8%A9%D9%8F+%D9%B1%D9%84%D9%84%D9%8E%D9%91%D9%87%D9%90+%D9%88%D9%8E%D8%A8%D9%8E%D8%B1%D9%8E%D9%83%D8%A7%D8%AA%D9%8F%D9%87%D9%8F;I'm+Muhammad+Sami+Bhat.)](https://git.io/typing-svg)
 
 <hr>
 
 
-###
+
+######
+
+<h3 align="left">🙋Let's Connect: </h3>
 
 <div align="left">
   <a href="https://t.me/beboolean" target="_blank">
@@ -25,15 +28,16 @@
 
 
 
+<hr>
+
 <h2 align="left">👩‍💻 About Me</h2>
 
-###
 
 <h3 align="left">📚 I'm currently pursuing Btech. (2022-26) in  Computer Science.<br>👨‍💻 Passionately growing knowledge in field of Web Development.<br>✌️ I believe in  LEARN BY DOING.</h3>
 
 ###
 <hr>
-<h3 align="left">🛠 Language and tools :</h3>
+<h2 align="left">🛠 Language and tools:</h2>
 
 ###
 
@@ -61,7 +65,7 @@
 
 ###
 <hr>
-<h3 align="left">🔥 Github Stats :</h3>
+<h2 align="left">🔥 Github Stats:</h2>
 
 ###
 
