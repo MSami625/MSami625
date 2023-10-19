@@ -74,6 +74,8 @@
 </div>
 
 ###
+[![An image of @msami6256's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msami6256)](https://holopin.io/@msami6256)
+
 
 <img src="https://komarev.com/ghpvc/?username=MSami625&style=flat-square&color=grey" alt="m-sami"/>
 
