@@ -72,13 +72,15 @@
 <hr>
 <h2 align="left">🔥 Github Stats:</h2>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=msami625&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
 </div>
 <hr>
-###
+
+
+
 [![An image of @msami6256's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/msami6256)](https://holopin.io/@msami6256)
 
 
