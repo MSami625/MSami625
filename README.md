@@ -9,7 +9,7 @@
 
 <h2>Hey Everyone 👋</h2>
 
-<hr>
+
 
 
 
@@ -38,7 +38,7 @@
 <h2 align="left">👩‍💻 About Me</h2>
 
 
-<h3 align="left">📚 I'm currently pursuing Btech. (2022-26) in  Computer Science.<br>👨‍💻 Passionately growing knowledge in field of Web Development.<br>✌️ I believe in  LEARN BY DOING.</h3>
+<h3 align="left">📚 I'm currently pursuing Btech. (2022-26) in  Computer Science.<br>👨‍💻 Passionately growing knowledge in field of Full Stack Development.<br>✌️ I believe in  LEARN BY DOING.</h3>
 
 ###
 <hr>
@@ -66,16 +66,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></div>
 
 ###
 <hr>
 <h2 align="left">🔥 Github Stats:</h2>
 
 
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=msami625&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
+
+  
 </div>
 <hr>
 
